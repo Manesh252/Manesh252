@@ -1,6 +1,6 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manesh Rajendra Bhupathi Parsa</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manesh252&label=Profile%20views&color=0e75b6&style=flat" alt="manesh252" /> </p>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manesh-rajendra-bhupathi-parsa-8b0b23227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manesh-rajendra-bhupathi-parsa-8b0b23227" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manesh-rajendra-bhupathi-parsa-8b0b23227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manesh-rajendra-bhupathi-parsa-8b0b23227" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_._.someone_._._._._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._.someone_._._._._/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/manimanesh252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/manimanesh252" height="30" width="40" /></a>
 </p>
