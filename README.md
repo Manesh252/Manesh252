@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manesh-rajendra-bhupathi-parsa-8b0b23227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manesh-rajendra-bhupathi-parsa-8b0b23227" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_._.someone_._._._._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._.someone_._._._._/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/manimanesh252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/manimanesh252" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_._.someone_._._._._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._.someone_._._._._/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/manimanesh252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/manimanesh252" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
